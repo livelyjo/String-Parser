@@ -30,6 +30,7 @@ Example:
 
 - Request: 'https://string-parser-3.onrendar.com/ingredients?ingredients= apple, cherry, banana'
 - Response: {'Ingredient 1': 'apple', 'Ingredient 2': 'cherry', 'Ingredient 3': 'banana'}
+- 
 Code example:
 ```
 import requests
