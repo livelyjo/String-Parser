@@ -1,5 +1,6 @@
 # Guide for Comma-Separated String Parser
 This microservice will allow a user to send a string of values that are sepeated by commas and receive a JSON where keys will start with Ingredient 1: and increment up for every value.
+
 Example:
 - Input: "pepper, apples, pear"
 - Output: {"Ingredient 1": "pepper", "Ingredient 2": "apples", "Ingredient 3": "pear"}
