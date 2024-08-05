@@ -11,7 +11,7 @@ This microservice is hosted by Rendar at this address https://string-parser-3.on
 ## Making Requests
 This microservice only accepts HTTP GET reqeusts.
 
-Example: 'https://string-parser-3.onrendar.com/ingredients?ingredients= apple, cherry, banana'
+Example: 'https://string-parser-3.onrendar.com/ingredients?ingredients=apple, cherry, banana'
 
 Formatting: '.../ingredients?ingredients={list}
 
