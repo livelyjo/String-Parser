@@ -20,6 +20,7 @@ def ingredients():
             count += 1
     dictionary[f'Ingredient {count}'] = ingredient.strip()
     json_dictionary = json.dumps(dictionary)
+    print(json_dictionary)
     return json_dictionary
 
 
